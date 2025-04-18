@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul Jabbar</h1>
 <h3 align="center">A passionate Frontend Developer & MERN Stack Enthusiast</h3>
 
-<p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fdeveloper&psig=AOvVaw0NmDxIPZ3uQlCZdBuoGVqV&ust=1745077485670000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCQ66_24YwDFQAAAAAdAAAAABAS" />
-</p>
 
 ---
 
